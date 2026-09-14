@@ -2,9 +2,10 @@
 
 **Effective Date:** 9/14/2026
 
-Johnston Construction Co ("we," "us," "our") provides the Hoopmaster equipment
-monitoring service. This Privacy Policy explains what information we
-collect from users of that service, how we use it, and your choices.
+Ernie Johnston ("we," "us," "our"), a sole proprietorship, provides the
+Hoopmaster equipment monitoring service. This Privacy Policy explains
+what information we collect from users of that service, how we use it,
+and your choices.
 
 ## 1. Information We Collect
 
@@ -41,14 +42,13 @@ We do **not** sell your personal information. We do **not** share your
 phone number or contact information with third parties for marketing
 purposes.
 
-We use the following third-party service providers strictly to operate
+We use the following third-party service provider strictly to operate
 the alerting service on our behalf:
 
 - **Twilio** (SMS delivery) — processes your phone number solely to
   deliver the text alerts you've enrolled to receive
- (email delivery)
 
-These providers are contractually/by design limited to using your
+This provider is contractually/by design limited to using your
 information only to deliver the service we've engaged them for.
 
 ## 4. Message Frequency and Opt-Out
@@ -60,21 +60,21 @@ persists, and an all-clear once resolved. Message and data rates may
 apply based on your mobile carrier plan.
 
 To stop receiving SMS alerts, reply **STOP** to any message. To resume,
-reply **START**, or contact Johnston Construction Co directly, or contact your
-installation technician to update your enrollment. For help, reply
-**HELP** to any message or contact ejohnston516@msn.com/ 913-709-7750.
+reply **START**, or contact us directly, or contact your installation
+technician to update your enrollment. For help, reply **HELP** to any
+message or contact ejohnston516@msn.com / 913-709-7750.
 
 ## 5. Data Retention
 
 We retain your contact and site information for as long as you remain
 enrolled in the monitoring service. If you discontinue service, you may
-request deletion of your information by contacting Johnston Construction Co.
+request deletion of your information by contacting us at the address
+below.
 
 ## 6. Data Security
 
 We take reasonable measures to protect your information, including
-encrypted transmission,
-limited employee access, etc..
+encrypted transmission and limited access to your data.
 
 ## 7. Changes to This Policy
 
@@ -86,6 +86,6 @@ will be posted on this page with an updated effective date.
 Questions about this Privacy Policy or your information can be directed
 to:
 
-Johnston Construction Co
+Ernie Johnston
 ejohnston516@msn.com
 913-709-7750
