@@ -11,11 +11,20 @@ early, before serious damage occurs.
 
 ## About
 
-Hoopmaster is offered by Johnston Construction Co. Installation and
-enrollment in the monitoring/alert service is handled directly by our
-technicians as part of equipment setup.
+Hoopmaster is offered by Ernie Johnston, a sole proprietorship.
+Installation and enrollment in the monitoring/alert service is handled
+directly by the technician as part of equipment setup.
 
 ## Contact
+
+ejohnston516@msn.com
+913-709-7750
+
+## Policies
+
+- [Privacy Policy](privacy-policy.md)
+- [Terms and Conditions](terms-and-conditions.md)
+
 
 ejohnston516@msn.com
 913-709-7750
