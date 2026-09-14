@@ -1,13 +1,10 @@
 # Privacy Policy — Hoopmaster
 
-**Effective Date:** [DATE]
+**Effective Date:** 9/14/2026
 
-[COMPANY LEGAL NAME] ("we," "us," "our") provides the Hoopmaster equipment
+Johnston Construction Co ("we," "us," "our") provides the Hoopmaster equipment
 monitoring service. This Privacy Policy explains what information we
 collect from users of that service, how we use it, and your choices.
-
-*Draft note: have this reviewed by an attorney before publishing. Replace
-all bracketed placeholders with your actual company information.*
 
 ## 1. Information We Collect
 
@@ -49,7 +46,7 @@ the alerting service on our behalf:
 
 - **Twilio** (SMS delivery) — processes your phone number solely to
   deliver the text alerts you've enrolled to receive
-- [EMAIL SERVICE PROVIDER, if applicable] (email delivery)
+ (email delivery)
 
 These providers are contractually/by design limited to using your
 information only to deliver the service we've engaged them for.
@@ -63,21 +60,21 @@ persists, and an all-clear once resolved. Message and data rates may
 apply based on your mobile carrier plan.
 
 To stop receiving SMS alerts, reply **STOP** to any message. To resume,
-reply **START**, or contact [SUPPORT CONTACT] directly, or contact your
+reply **START**, or contact Johnston Construction Co directly, or contact your
 installation technician to update your enrollment. For help, reply
-**HELP** to any message or contact [SUPPORT EMAIL/PHONE].
+**HELP** to any message or contact ejohnston516@msn.com/ 913-709-7750.
 
 ## 5. Data Retention
 
 We retain your contact and site information for as long as you remain
 enrolled in the monitoring service. If you discontinue service, you may
-request deletion of your information by contacting [SUPPORT CONTACT].
+request deletion of your information by contacting Johnston Construction Co.
 
 ## 6. Data Security
 
 We take reasonable measures to protect your information, including
-[DESCRIBE ACTUAL SECURITY PRACTICES — e.g., encrypted transmission,
-limited employee access, etc.].
+encrypted transmission,
+limited employee access, etc..
 
 ## 7. Changes to This Policy
 
@@ -89,7 +86,6 @@ will be posted on this page with an updated effective date.
 Questions about this Privacy Policy or your information can be directed
 to:
 
-[COMPANY LEGAL NAME]
-[ADDRESS]
-[SUPPORT EMAIL]
-[SUPPORT PHONE]
+Johnston Construction Co
+ejohnston516@msn.com
+913-709-7750
