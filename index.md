@@ -11,17 +11,16 @@ early, before serious damage occurs.
 
 ## About
 
-Hoopmaster is offered by [COMPANY LEGAL NAME]. Installation and
+Hoopmaster is offered by Johnston Construction Co. Installation and
 enrollment in the monitoring/alert service is handled directly by our
 technicians as part of equipment setup.
 
 ## Contact
 
-[SUPPORT EMAIL]
-[SUPPORT PHONE]
-[ADDRESS, if desired]
+ejohnston516@msn.com
+913-709-7750
 
 ## Policies
 
-- [Privacy Policy](privacy-policy.md)
-- [Terms and Conditions](terms-and-conditions.md)
+(privacy-policy.md)
+(terms-and-conditions.md)
